@@ -1,0 +1,134 @@
+MorphViT_cifar-10_MWU_T1.0
+  Test metric: 0.7020 ± 0.0062
+  Runs: 5
+  Individual: 0.6981, 0.6975, 0.7036, 0.7122, 0.6986
+
+MorphViT_cifar-10_NO-MWU_T1.0
+  Test metric: 0.6396 ± 0.0088
+  Runs: 5
+  Individual: 0.6299, 0.6525, 0.6435, 0.6384, 0.6338
+
+ViT_cifar-10_NO-MWU_T1.0
+  Test metric: 0.8108 ± 0.0033
+  Runs: 5
+  Individual: 0.8094, 0.8058, 0.8142, 0.8131, 0.8115
+
+min-max-plus_fashion-mnist_MWU_T1.0
+  Test metric: 0.8603 ± 0.0036
+  Runs: 5
+  Individual: 0.8661, 0.8601, 0.8602, 0.8562, 0.8590
+
+min-max-plus_fashion-mnist_NO-MWU_T1.0
+  Test metric: 0.6266 ± 0.0818
+  Runs: 5
+  Individual: 0.6474, 0.6795, 0.4819, 0.6695, 0.6545
+
+min-max-plus_mnist_MWU_T1.0
+  Test metric: 0.9530 ± 0.0038
+  Runs: 5
+  Individual: 0.9497, 0.9536, 0.9588, 0.9494, 0.9535
+
+min-max-plus_mnist_NO-MWU_T1.0
+  Test metric: 0.6246 ± 0.0890
+  Runs: 5
+  Individual: 0.6575, 0.5987, 0.5022, 0.6179, 0.7467
+
+min-max-plus_pmlb-adult_MWU_T0.0
+  Test metric: 0.7813 ± 0.0108
+  Runs: 5
+  Individual: 0.7988, 0.7835, 0.7789, 0.7747, 0.7708
+
+min-max-plus_pmlb-adult_NO-MWU_T0.0
+  Test metric: 0.5914 ± 0.1252
+  Runs: 5
+  Individual: 0.7294, 0.7276, 0.5000, 0.5000, 0.5000
+
+min-max-plus_pmlb-chess_MWU_T0.0
+  Test metric: 0.8789 ± 0.1269
+  Runs: 5
+  Individual: 0.9393, 0.6542, 0.9100, 0.9308, 0.9602
+
+min-max-plus_pmlb-chess_NO-MWU_T0.0
+  Test metric: 0.6870 ± 0.0829
+  Runs: 5
+  Individual: 0.6750, 0.6364, 0.6942, 0.8224, 0.6068
+
+min-max-plus_pmlb-ionosphere_MWU_T0.0
+  Test metric: 0.8365 ± 0.0474
+  Runs: 5
+  Individual: 0.9039, 0.8457, 0.8074, 0.7783, 0.8474
+
+min-max-plus_pmlb-ionosphere_NO-MWU_T0.0
+  Test metric: 0.7838 ± 0.1603
+  Runs: 5
+  Individual: 0.8457, 0.8257, 0.8891, 0.5000, 0.8583
+
+min-max-plus_pmlb-mushroom_MWU_T0.0
+  Test metric: 0.9632 ± 0.0257
+  Runs: 5
+  Individual: 0.9504, 0.9753, 0.9291, 0.9640, 0.9974
+
+min-max-plus_pmlb-mushroom_NO-MWU_T0.0
+  Test metric: 0.7301 ± 0.2135
+  Runs: 5
+  Individual: 0.9067, 0.8222, 0.9218, 0.5000, 0.5000
+
+min-max-plus_pmlb-phoneme_MWU_T0.0
+  Test metric: 0.7845 ± 0.0265
+  Runs: 5
+  Individual: 0.7533, 0.8225, 0.7868, 0.7930, 0.7668
+
+min-max-plus_pmlb-phoneme_NO-MWU_T0.0
+  Test metric: 0.6758 ± 0.1161
+  Runs: 5
+  Individual: 0.6140, 0.7654, 0.5000, 0.7590, 0.7407
+
+min-max-plus_pmlb-spambase_MWU_T0.0
+  Test metric: 0.8736 ± 0.0199
+  Runs: 5
+  Individual: 0.8943, 0.8850, 0.8790, 0.8426, 0.8673
+
+min-max-plus_pmlb-spambase_NO-MWU_T0.0
+  Test metric: 0.8751 ± 0.0253
+  Runs: 5
+  Individual: 0.8849, 0.8827, 0.8921, 0.8303, 0.8856
+
+mlp_fashion-mnist_NO-MWU_T1.0
+  Test metric: 0.8894 ± 0.0034
+  Runs: 5
+  Individual: 0.8897, 0.8899, 0.8872, 0.8946, 0.8855
+
+mlp_mnist_NO-MWU_T1.0
+  Test metric: 0.9819 ± 0.0020
+  Runs: 5
+  Individual: 0.9819, 0.9791, 0.9810, 0.9836, 0.9840
+
+mlp_pmlb-adult_NO-MWU_T1.0
+  Test metric: 0.7899 ± 0.0115
+  Runs: 5
+  Individual: 0.7942, 0.7818, 0.7874, 0.8076, 0.7785
+
+mlp_pmlb-chess_NO-MWU_T1.0
+  Test metric: 0.9896 ± 0.0033
+  Runs: 5
+  Individual: 0.9842, 0.9920, 0.9892, 0.9906, 0.9921
+
+mlp_pmlb-ionosphere_NO-MWU_T1.0
+  Test metric: 0.9048 ± 0.0294
+  Runs: 5
+  Individual: 0.9291, 0.8874, 0.9400, 0.8691, 0.8983
+
+mlp_pmlb-mushroom_NO-MWU_T1.0
+  Test metric: 0.9998 ± 0.0005
+  Runs: 5
+  Individual: 1.0000, 0.9988, 1.0000, 1.0000, 1.0000
+
+mlp_pmlb-phoneme_NO-MWU_T1.0
+  Test metric: 0.8421 ± 0.0081
+  Runs: 5
+  Individual: 0.8464, 0.8438, 0.8293, 0.8506, 0.8405
+
+mlp_pmlb-spambase_NO-MWU_T1.0
+  Test metric: 0.9298 ± 0.0081
+  Runs: 5
+  Individual: 0.9244, 0.9249, 0.9358, 0.9228, 0.9409
