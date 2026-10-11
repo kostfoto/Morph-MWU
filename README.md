@@ -1,7 +1,7 @@
 # Correlational Training of Morphological Neural Networks
 
 Code for ICASSP 2027 submission "CORRELATIONAL TRAINING OF MORPHOLOGICAL NEURAL
-NETWORKS": Training and evaluation of MLP, Min-max-plus, ViT, and MorphViT models with either standard back-propagation or the proposed correlational/MWU-inspired update.
+NETWORKS" (arXiv preprint arXiv:2610.11740): Training and evaluation of MLP, Min-max-plus, ViT, and MorphViT models with either standard back-propagation or the proposed correlational/MWU-inspired update.
 
 ## Abstract
 
@@ -162,3 +162,15 @@ The plotting script averages matching runs over seeds and shows the validation m
 - `metrics.py`, `losses.py`, `optimizer.py`: training utilities.
 - `aggregate_results.py`: result aggregation and plotting.
 - `Makefile`: paper experiment configurations.
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@article{fotopoulos2026correlational,
+  title={Correlational Training of Morphological Neural Networks},
+  author={Fotopoulos, Konstantinos and Maragos, Petros},
+  journal={arXiv preprint arXiv:2610.11740},
+  year={2026}
+}
